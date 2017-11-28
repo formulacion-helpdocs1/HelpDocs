@@ -101,7 +101,7 @@
 </nav>
 
     <!-- Hero -->
-<header>
+<header color="black">
   <div class="container">
     <div class="intro-text">
       <div class="intro-lead-in">Bienvenid@ a HelpDocs!</div>
