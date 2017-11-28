@@ -5,7 +5,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="description" content="Somos una solución y aplicación para agilizar tus tramites y evitar que hagas colas.">
-  <meta name="author" content="HelpDocs">
+  <meta name="author" content="carlos">
   <meta name="generator" content="Hugo 0.30" />
   <title> </title>
   <!-- Stylesheets -->
@@ -55,7 +55,7 @@
       </button>
       
         <a class="navbar-brand page-scroll" href="/#page-top">
-          HelpDocsss
+          HelpDocs
         </a>
       
 
