@@ -11,20 +11,15 @@
   <!-- Stylesheets -->
   <link href="https://formulacion-helpdocs.github.io/helpdocs2/css/bootstrap-v3.3.7/bootstrap.min.css" rel="stylesheet" type="image/x-icon">
   <link href="https://formulacion-helpdocs.github.io/helpdocs2/css/agency.css" rel="stylesheet">
-  <link href="https://formulacion-helpdocs.github.io/helpdocs2/css/jquery.form-validator-v2.3.44/theme-default.min.css" rel="stylesheet">
-
-
-  
+  <link href="https://formulacion-helpdocs.github.io/helpdocs2/css/jquery.form-validator-v2.3.44/theme-default.min.css" rel="stylesheet">  
 
   <!-- Custom Fonts -->
   <link href="https://formulacion-helpdocs.github.io/helpdocs2/font-awesome-v4.7.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">
-
   
     <link href="//fonts.googleapis.com/css?family=Montserrat:1000,3000" rel="stylesheet" type="text/css">
     <link href="//fonts.googleapis.com/css?family=Kaushan+Script" rel="stylesheet" type="text/css">
     <link href="//fonts.googleapis.com/css?family=Droid+Serif:500,800,400italic,700italic" rel="stylesheet" type="text/css">
-    <link href="//fonts.googleapis.com/css?family=Roboto+Slab:500,200,300,800" rel="stylesheet" type="text/css">
-  
+    <link href="//fonts.googleapis.com/css?family=Roboto+Slab:500,200,300,800" rel="stylesheet" type="text/css">  
 
   
     <link rel="shortcut icon" type="image/x-icon" href="https://formulacion-helpdocs.github.io/helpdocs2/favicon.ico">
@@ -40,8 +35,7 @@
  
 </head>
 
-
-  <body bgcolor="#ffff00" id="page-top" class="index">
+  <body  id="page-top" class="index">
     <!-- Navigation -->
 <nav class="navbar navbar-default navbar-fixed-top">
   <div class="container">
@@ -53,12 +47,10 @@
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
-      </button>
-      
+      </button>      
        <!-- <a class="navbar-brand page-scroll" href="/#page-top">
           HelpDocs
-        </a> -->
-      
+        </a> -->     
 
     </div>
     <!-- Collect the nav links, forms, and other content for toggling -->
@@ -86,17 +78,14 @@
     </div>
   </div>
 </header>    
-
     
       <!-- Contact Section -->
 <section id="contact">
   <div class="container">
     <div class="row">
       <div class="col-lg-12 text-center">
-
         
-        <h2 class="section-heading">Subscribete</h2>
-        
+        <h2 class="section-heading">Subscribete</h2>       
 
         
         <h3 class="section-subheading text-muted">Subscribete a nuestra lista para estar actualizado.</h3>
@@ -129,9 +118,7 @@
 
           <fieldset>
             <div class="row">
-              <div class="col-md-6">
-
-                
+              <div class="col-md-6">              
 
                 
 
@@ -163,10 +150,7 @@
       </div>
     </div>
   </div>
-</section>
-
-
-    
+</section>    
 
     
       <!-- Footer section -->
@@ -194,9 +178,7 @@
       </div>
     </div>
   </div>
-</footer>
-
-    
+</footer>    
 
     
 
@@ -211,12 +193,6 @@
 
 <!-- Custom Theme -->
 <script src="https://formulacion-helpdocs.github.io/helpdocs2/js/agency.js"></script>
-
-
-
-
-
-
 
   </body>
 </html>
