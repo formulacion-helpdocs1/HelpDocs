@@ -5,11 +5,11 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="description" content="Somos una solución y aplicación para agilizar tus tramites y evitar que hagas colas.">
-  <meta name="author" content="carlos">
+  <meta name="author" content="HelpDocs">
   <meta name="generator" content="Hugo 0.30" />
   
   <!-- Stylesheets -->
-  <link href="https://formulacion-helpdocs.github.io/helpdocs2/css/bootstrap-v3.3.7/bootstrap.min.css" rel="stylesheet">
+  <link href="https://formulacion-helpdocs.github.io/helpdocs2/css/bootstrap-v3.3.7/bootstrap.min.css" rel="stylesheet" type="tect/css">
   <link href="https://formulacion-helpdocs.github.io/helpdocs2/css/agency.css" rel="stylesheet">
   <link href="https://formulacion-helpdocs.github.io/helpdocs2/css/jquery.form-validator-v2.3.44/theme-default.min.css" rel="stylesheet">
 
