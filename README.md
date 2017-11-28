@@ -69,30 +69,6 @@
         </li>
 
         
-
-        
-
-        
-
-        
-          <li color="black">
-            <a class="page-scroll" href="https://formulacion-helpdocs.github.io/helpdocs2#about">Acerca de</a>
-          </li>
-        
-
-        
-
-        
-          <li>
-            <a class="page-scroll" href="https://formulacion-helpdocs.github.io/helpdocs2#contact">Contacto</a>
-          </li>
-        
-
-        
-          <li>
-            <a href="https://www.facebook.com/apphelpdocs/">Facebook</a>
-          </li>
-        
       </ul>
     </div>
     <!-- /.navbar-collapse -->
