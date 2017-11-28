@@ -7,7 +7,7 @@
   <meta name="description" content="Somos una solución y aplicación para agilizar tus tramites y evitar que hagas colas.">
   <meta name="author" content="HelpDocsss">
   <meta name="generator" content="Hugo 0.30" />
-  <title>HelpDocs</title>
+  <title>HelpDocsssa</title>
   <!-- Stylesheets -->
   <link href="https://formulacion-helpdocs.github.io/helpdocs2/css/bootstrap-v3.3.7/bootstrap.min.css" rel="stylesheet">
   <link href="https://formulacion-helpdocs.github.io/helpdocs2/css/agency.css" rel="stylesheet">
@@ -107,93 +107,7 @@
       <a href="#services" class="page-scroll btn btn-xl">Conoce más</a>
     </div>
   </div>
-</header>
-
-
-    
-
-    
-
-    
-      <!-- About Section -->
-<section id="about">
-  <div class="container">
-    <div class="row">
-      <div class="col-lg-12 text-center">
-        <h2 class="section-heading">Acerca de</h2>
-        <h3 class="section-subheading text-muted">HelpDocs te ayuda a agilizar tus tramites legales de Sunat u otros, averigua como aqui.</h3>
-      </div>
-    </div>
-    <div class="row">
-      <div class="col-lg-12">
-        <ul class="timeline">
-
-          
-            <li >
-              <div class="timeline-image">
-                
-                <img class="img-circle img-responsive" src="https://formulacion-helpdocs.github.io/helpdocs2/img/about/1.jpg" alt="">
-              </div>
-              <div class="timeline-panel">
-                <div class="timeline-heading">
-                  <h4></h4>
-                  <h4 class="subheading">Descarga la app.</h4>
-                </div>
-                <div class="timeline-body">
-                  <p class="text-muted">Obten la app desde la Play store o AppStore.</p>
-                </div>
-              </div>
-            </li>
-          
-            <li class="timeline-inverted" >
-              <div class="timeline-image">
-                
-                <img class="img-circle img-responsive" src="https://formulacion-helpdocs.github.io/helpdocs2/img/about/2.jpg" alt="">
-              </div>
-              <div class="timeline-panel">
-                <div class="timeline-heading">
-                  <h4></h4>
-                  <h4 class="subheading">Busca tu tramite</h4>
-                </div>
-                <div class="timeline-body">
-                  <p class="text-muted">Utilizando la interfaz de la app busca tu tramite de la Sunat.</p>
-                </div>
-              </div>
-            </li>
-          
-            <li >
-              <div class="timeline-image">
-                
-                <img class="img-circle img-responsive" src="https://formulacion-helpdocs.github.io/helpdocs2/img/about/3.jpg" alt="">
-              </div>
-              <div class="timeline-panel">
-                <div class="timeline-heading">
-                  <h4></h4>
-                  <h4 class="subheading">Informate</h4>
-                </div>
-                <div class="timeline-body">
-                  <p class="text-muted">La aplicacion te dara toda la informacio necesaria para poder realizar tu tramite.</p>
-                </div>
-              </div>
-            </li>
-          
-
-          <li class="timeline-inverted">
-            <div class="timeline-image">
-              <h4>Pronto!</h4>
-            </div>
-          </li>
-        </ul>
-      </div>
-    </div>
-  </div>
-</section>
-
-    
-
-    
-
-    
+</header>    
 
     
       <!-- Contact Section -->
