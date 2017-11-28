@@ -55,9 +55,9 @@
         <span class="icon-bar"></span>
       </button>
       
-        <a class="navbar-brand page-scroll" href="/#page-top">
+       <!-- <a class="navbar-brand page-scroll" href="/#page-top">
           HelpDocs
-        </a>
+        </a> -->
       
 
     </div>
