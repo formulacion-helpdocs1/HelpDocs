@@ -75,7 +75,7 @@
         
 
         
-          <li>
+          <li color="black">
             <a class="page-scroll" href="https://formulacion-helpdocs.github.io/helpdocs2#about">Acerca de</a>
           </li>
         
