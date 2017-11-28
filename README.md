@@ -49,7 +49,7 @@
         <span class="icon-bar"></span>
       </button>      
        <!-- <a class="navbar-brand page-scroll" href="/#page-top">
-          HelpDocs
+          HelpDocsss
         </a> -->     
 
     </div>
@@ -72,7 +72,7 @@
 <header >
   <div class="container">
     <div class="intro-text">
-      <div class="intro-lead-in" bgcolor="black">Bienvenid@ a HelpDocs!</div>
+      <div href="#services" class="intro-lead-in">Bienvenid@ a HelpDocs!</div>
       <div class="intro-heading">Agiliza tus trámites legales</div>
       <!--<a href="#services" class="page-scroll btn btn-xl">Conoce más</a>-->
     </div>
