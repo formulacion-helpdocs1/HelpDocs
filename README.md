@@ -20,7 +20,7 @@
   <link href="https://formulacion-helpdocs.github.io/helpdocs2/font-awesome-v4.7.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">
 
   
-    <link href="//fonts.googleapis.com/css?family=Montserrat:10,30" rel="stylesheet" type="text/css">
+    <link href="//fonts.googleapis.com/css?family=Montserrat:1000,3000" rel="stylesheet" type="text/css">
     <link href="//fonts.googleapis.com/css?family=Kaushan+Script" rel="stylesheet" type="text/css">
     <link href="//fonts.googleapis.com/css?family=Droid+Serif:500,800,400italic,700italic" rel="stylesheet" type="text/css">
     <link href="//fonts.googleapis.com/css?family=Roboto+Slab:500,200,300,800" rel="stylesheet" type="text/css">
