@@ -5,7 +5,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="description" content="Somos una solución y aplicación para agilizar tus tramites y evitar que hagas colas.">
-  <meta name="author" content="HelpDocs">
+  <meta name="author" content="HelpDocsss">
   <meta name="generator" content="Hugo 0.30" />
   <title>HelpDocs</title>
   <!-- Stylesheets -->
