@@ -41,7 +41,7 @@
 </head>
 
 
-  <body id="page-top" class="index" bgcolor="black">
+  <body bgcolor="black" id="page-top" class="index">
     <!-- Navigation -->
 <nav class="navbar navbar-default navbar-fixed-top">
   <div class="container">
