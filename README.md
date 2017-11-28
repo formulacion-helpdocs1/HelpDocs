@@ -74,7 +74,7 @@
     <div class="intro-text">
       <div class="intro-lead-in" bgcolor="black">Bienvenid@ a HelpDocs!</div>
       <div class="intro-heading">Agiliza tus trámites legales</div>
-      <a href="#services" class="page-scroll btn btn-xl">Conoce más</a>
+      <!--<a href="#services" class="page-scroll btn btn-xl">Conoce más</a>-->
     </div>
   </div>
 </header>    
