@@ -73,7 +73,7 @@
   <div class="container">
     <div class="intro-text">
       <div href="#services" class="intro-lead-in">Bienvenid@ a HelpDocs!</div>
-      <div class="intro-heading">Agiliza tus trámites legales</div>
+      <div class="intro-heading">Agiliza tus trámites legales de la SUNAT</div>
       <!--<a href="#services" class="page-scroll btn btn-xl">Conoce más</a>-->
     </div>
   </div>
@@ -85,7 +85,7 @@
     <div class="row">
       <div class="col-lg-12 text-center">
         
-        <h2 class="section-heading">Subscribete</h2>       
+        <h2 class="section-heading">Suscribete</h2>       
 
         
         <h3 class="section-subheading text-muted">Subscribete a nuestra lista para estar actualizado.</h3>
