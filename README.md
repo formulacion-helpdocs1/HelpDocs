@@ -34,6 +34,7 @@
   <![endif]-->
  
 </head>
+<title> HELPDOCS </title>
 
   <body  id="page-top" class="index">
     <!-- Navigation -->
